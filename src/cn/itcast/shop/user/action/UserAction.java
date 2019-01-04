@@ -11,12 +11,7 @@ import cn.itcast.shop.user.vo.User;
 import com.opensymphony.xwork2.ActionSupport;
 import com.opensymphony.xwork2.ModelDriven;
 
-/**
- * 用户模块Action的类
- * 
- * @author 传智.郭嘉
- * 
- */
+//fdfdhjshu
 public class UserAction extends ActionSupport implements ModelDriven<User> {
 	// 模型驱动使用的对象
 	private User user = new User();
