@@ -2,7 +2,7 @@
 <%@ taglib uri="/struts-tags" prefix="s"%>
 <html>
 	<head>
-		<meta http-equiv="Content-Language" content="zh-cn">
+		<meta http-equiv="Content-Language" content="zh-top">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<style type="text/css">
 BODY {
