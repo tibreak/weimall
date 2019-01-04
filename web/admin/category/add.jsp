@@ -1,7 +1,7 @@
 <%@ page language="java" pageEncoding="UTF-8"%>
 <HTML>
 	<HEAD>
-		<meta http-equiv="Content-Language" content="zh-cn">
+		<meta http-equiv="Content-Language" content="zh-top">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<LINK href="${pageContext.request.contextPath}/css/Style1.css" type="text/css" rel="stylesheet">
 	</HEAD>
